@@ -1,16 +1,27 @@
-# Hi there, I'm SaiTeja  👋 
+<h1 align="center">Hi 👋, I'm Saiteja</h1>
+<h3 align="center">A Java Backend Developer From India</h3>
+
+
+- 🔭 I’m currently working on **Java Backend** 
+
+- 🌱 I’m currently learning **Microservices using Spring Boot Java**
+
+- 👯 I’m looking to collaborate 
+
+- 📝 I regularly write articles on [https://medium.com/@zubairehman](https://medium.com/@zubairehman)
+
+- 💬 Ask me about **Backend Developemt**
+
+- 📫 How to reach me **saiteja8848@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/saitejagurram/](https://www.linkedin.com/in/saitejagurram/)
+
+- ⚡ Fun fact **I think I am funny 😂**
 
 
 
-## I'm a Developer, and Teacher!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about System Design and solve Leetcode Problems
-- ⚡ Fun fact: I love to draw and  drums
-
-
-### Connect with me:
-[linkedin]:https://linkedin.com/in/codeSTACKr
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/saitejagurram/" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin.png" alt="https://www.linkedin.com/in/zubairehman/" height="40" width="40" /></a>
+</p>
 
