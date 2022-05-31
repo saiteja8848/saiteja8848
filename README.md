@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate 
 
-- 📝 I regularly write articles on [https://medium.com/@zubairehman](https://medium.com/@zubairehman)
+- 📝 I regularly write articles on 
 
 - 💬 Ask me about **Backend Developemt**
 
